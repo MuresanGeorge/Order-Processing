@@ -1,0 +1,1 @@
+S-a efectuat  comanda 2  a clientului 1 care a comandat produsul 1 cu cantitatea 1111
